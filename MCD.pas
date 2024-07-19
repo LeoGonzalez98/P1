@@ -4,6 +4,8 @@ VAR
 
 begin
 
+asda
+
 Writeln('Escribe el pirmer numero ');
 read(num1);
 Writeln('Escribe el 2 numero ');
