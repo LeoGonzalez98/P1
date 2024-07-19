@@ -4,6 +4,9 @@ CONST
    CANT_SALONES = 200;
    MAX_PIZARRONES = 4;
 
+asda
+asdas
+asda
 TYPE
    TSalon = RECORD
                 idSalon : Integer;
